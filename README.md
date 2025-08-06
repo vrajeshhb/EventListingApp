@@ -23,6 +23,9 @@ Screen 2: Event DetailsScreen
 
 <img width="500" height="450" alt="Screenshot 2025-08-06 at 7 40 35 AM" src="https://github.com/user-attachments/assets/a288d533-1c12-448a-aab3-78a7dc1faa03" />
 
+<img width="500" height="450" alt="Screenshot 2025-08-06 at 7 41 29 AM" src="https://github.com/user-attachments/assets/5e8cf557-eee0-4e6f-a276-064499d8c305" />
+
+
 [ScreenShots/Screen Recording 2025-08-06 at 7.42.22 AM.mov](https://github.com/vrajeshhb/EventListingApp/blob/main/ScreenShots/Screen%20Recording%202025-08-06%20at%207.42.22%E2%80%AFAM.mov)
 
 
